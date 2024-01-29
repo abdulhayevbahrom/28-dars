@@ -22,3 +22,14 @@ header h1 {
 header i {
   font-size: 30px;
 }
+
+.banner {
+  width: 100%;
+  height: 100vh;
+  background-color: blueviolet;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 5vw;
+  color: #fff;
+}
